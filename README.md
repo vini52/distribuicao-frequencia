@@ -3,6 +3,6 @@ Exercicio da disciplina Estatística Aplicada para visualização das estatísti
 
 ## Uso
 
-1. Abra o notebook notebook.ipynb usando Jupyter Notebook ou JupyterLab.
+1. Abra o notebook distribuicaoFrequencia.ipynb usando Jupyter Notebook ou Google Colab.
 2. Execute cada célula do notebook na ordem em que são apresentadas.
 3. Observe os resultados e análises geradas.
